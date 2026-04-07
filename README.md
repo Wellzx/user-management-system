@@ -28,20 +28,17 @@ This project was built to practice low-level concepts in C — dynamic memory wi
 - Make
 
 ## How to run
-
-\```bash
+```
+\bash
 git clone https://github.com/Wellzx/user-management-c.git
 cd user-management-c
 make
 ./user_manager
-\```
-
+```
 ## Usage
-
-\```
+```
 1. Add User
 2. List Users
 3. Exit
-\```
-
+```
 Data is automatically saved to `users.bin` on exit and loaded on startup.
